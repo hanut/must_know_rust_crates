@@ -3,24 +3,25 @@ This repository contains a list of the most common must know crates in the rust 
 The crates are group into no_std, std, build, test, macro and cargo and further which platform and project they are useful for. 
 
 # Table of contents
-- no_std
-- - General (Can also be used in std)
-- - Platform
-- - - Embedded
-- - - Wasm
+- [no_std](#no_std)
+- - [General](#general)
+- - [Platform](#platform)
+- - - [Embedded](#embedded)
+- - - [Wasm](#wasm)
 
-- std
-- - General
-- - Libraries
-- - Applications
+- [std](#std)
+- - [General](#general)
+- - [Libraries](#libraries)
+- - [Applications](#applications)
 
-- - Domain
-- - - Gui
-- - - Backend
-- Build
-- Test
-- Macro
-- Cargo
+- - [Domain](#domain)
+- - - [Gui](#gui)
+- - - [Backend](#backend)
+- [Build](#build)
+- [Test](#test)
+- [Macro](#macro)
+- [Cargo](#cargo)
+- [Other resources](#other-resources)
 
 # no_std
 ## General
