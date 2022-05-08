@@ -78,12 +78,12 @@ Also check out the [no_std general](#general) section as most of the crates in n
 - [env_logger](https://crates.io/crates/env_logger): _Implements a logger that can be configured via environment variables._ [#log, #logging, #logger] ![crates.io](https://img.shields.io/crates/v/env_logger.svg)
 
 ## Domain
-### Gui
-
 ### Backend
 - [reqwest](https://crates.io/crates/reqwest): _An ergonomic, batteries-included HTTP Client for Rust._ [#client, #request, #http] ![crates.io](https://img.shields.io/crates/v/reqwest.svg)
 - [hyper](https://crates.io/crates/hyper): _A fast and correct HTTP implementation for Rust._ [#hyper, #http, #hyperium] ![crates.io](https://img.shields.io/crates/v/hyper.svg)
 - [H2](https://crates.io/crates/h2): _A Tokio aware, HTTP/2 client & server implementation for Rust._ [#http, #async, #non-blocking] ![crates.io](https://img.shields.io/crates/v/h2.svg)
+### Gui
+### Game
 
 # Build
 - [bindgen](https://crates.io/crates/bindgen): _bindgen automatically generates Rust FFI bindings to C (and some C++) libraries._ [#bindings, #ffi, #code-generation] ![crates.io](https://img.shields.io/crates/v/bindgen.svg)
