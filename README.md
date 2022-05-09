@@ -106,7 +106,5 @@ Also check out the [no_std general](#general) section as most of the crates in n
 # Cargo
 - [cargo-edit](https://crates.io/crates/cargo-edit): _This tool extends Cargo to allow you to add, remove, and upgrade dependencies by modifying your Cargo.toml file from the command line._ ![crates.io](https://img.shields.io/crates/v/cargo-edit.svg)
 - [cargo-outdated](https://crates.io/crates/cargo-outdated): _A cargo subcommand for displaying when Rust dependencies are out of date._ ![crates.io](https://img.shields.io/crates/v/cargo-outdated.svg)
-- [cargo-tree](https://crates.io/crates/cargo-tree): _cargo tree is a Cargo subcommand that visualizes a crate's dependency graph in a tree-like format._ ![crates.io](https://img.shields.io/crates/v/cargo-tree.svg)
 - [cargo-update](https://crates.io/crates/cargo-update): _A cargo subcommand for checking and applying updates to installed executables._ ![crates.io](https://img.shields.io/crates/v/cargo-update.svg)
 - [cargo-expand](https://crates.io/crates/cargo-expand): _Once installed, the following command prints out the result of macro expansion and ``` #[derive] ``` expansion applied to the current crate._ ![crates.io](https://img.shields.io/crates/v/cargo-expand.svg)
-- [cargo-edit](https://crates.io/crates/cargo-edit): _This tool extends Cargo to allow you to add, remove, and upgrade dependencies by modifying your Cargo.toml file from the command line._ ![crates.io](https://img.shields.io/crates/v/cargo-edit.svg)
