@@ -39,6 +39,8 @@ Most of the listed crates such as the serde, serde_derive, tap, ... may also be 
 - [num](https://crates.io/crates/num): _A collection of numeric types and traits for Rust._ [#mathematics, #numerics, #bignum] ![crates.io](https://img.shields.io/crates/v/num.svg)
 - [nalgebra](https://crates.io/crates/nalgebra): _Linear algebra library for the Rust programming language._ [#math, #algebra, #linear, #matrix, #vector] ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
 - [Chrono](https://crates.io/crates/chrono): _It aims to be a feature-complete superset of the time library._ [#time, #date, #calendar] ![crates.io](https://img.shields.io/crates/v/chrono.svg)
+- [lazy_static](https://crates.io/crates/lazy_static): _A macro for declaring lazily evaluated statics in Rust._ [#macro, #static, #lazy] ![crates.io](https://img.shields.io/crates/v/lazy_static.svg)
+- [time](https://crates.io/crates/time): _ Date and time library. Fully interoperable with the standard library._ [#time, #date, #calendar, #duration] ![crates.io](https://img.shields.io/crates/v/time.svg)
 
 ## Platform
 ### Embedded
