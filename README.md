@@ -40,7 +40,7 @@ Most of the listed crates such as the serde, serde_derive, tap, ... may also be 
 - [nalgebra](https://crates.io/crates/nalgebra): _Linear algebra library for the Rust programming language._ [#math, #algebra, #linear, #matrix, #vector] ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
 - [Chrono](https://crates.io/crates/chrono): _It aims to be a feature-complete superset of the time library._ [#time, #date, #calendar] ![crates.io](https://img.shields.io/crates/v/chrono.svg)
 - [lazy_static](https://crates.io/crates/lazy_static): _A macro for declaring lazily evaluated statics in Rust._ [#macro, #static, #lazy] ![crates.io](https://img.shields.io/crates/v/lazy_static.svg)
-- [time](https://crates.io/crates/time): _ Date and time library. Fully interoperable with the standard library._ [#time, #date, #calendar, #duration] ![crates.io](https://img.shields.io/crates/v/time.svg)
+- [time](https://crates.io/crates/time): _Date and time library. Fully interoperable with the standard library._ [#time, #date, #calendar, #duration] ![crates.io](https://img.shields.io/crates/v/time.svg)
 
 ## Platform
 ### Embedded
@@ -51,6 +51,10 @@ Most of the listed crates such as the serde, serde_derive, tap, ... may also be 
 - [cargo-flash](https://crates.io/crates/cargo-flash): _This crate provides a cargo subcommand to flash ELF binaries onto ARM chips._ [#embedded] ![crates.io](https://img.shields.io/crates/v/cargo-flash.svg)
 - [cargo-embed](https://crates.io/crates/cargo-embed): _This crate provides a cargo subcommand to work with embedded targets._ [#embedded] ![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)
 - [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock): _This is a collection of types that implement the embedded-hal traits._ [#io, #i2c, #hal, #delay, #spi] ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
+- [ufmt](https://crates.io/crates/ufmt): _A (6-40x) smaller, (2-9x) faster and panic-free alternative to ``` core::fmt ```._ [#display, #write, #format, #debug] ![crates.io](https://img.shields.io/crates/v/ufmt.svg)
+- [defmt](https://crates.io/crates/defmt): _A highly efficient logging framework that targets resource-constrained devices, like microcontrollers_ [#logging, #formatting, #logger, #formatter, #knurling] ![crates.io](https://img.shields.io/crates/v/defmt.svg)
+- [smoltcp](https://crates.io/crates/smoltcp): _A TCP/IP stack designed for bare-metal, real-time systems without a heap._ [#udp, #ethernet, #ip, #tcp, #network] ![crates.io](https://img.shields.io/crates/v/smoltcp.svg)
+
 ### Wasm
 - [Rust Wasm Book](https://rustwasm.github.io/docs/book/introduction.html) *This small book describes how to use Rust and WebAssembly together.*
 - [wasm-pack](https://crates.io/crates/wasm-pack): _This tool seeks to be a one-stop shop for building and working with rust- generated WebAssembly that you would like to interop with JavaScript, in the browser or with Node.js._ ![crates.io](https://img.shields.io/crates/v/wasm-pack.svg)
@@ -89,6 +93,7 @@ Also check out the [no_std general](#general) section as most of the crates in n
 
 # Build
 - [bindgen](https://crates.io/crates/bindgen): _bindgen automatically generates Rust FFI bindings to C (and some C++) libraries._ [#bindings, #ffi, #code-generation] ![crates.io](https://img.shields.io/crates/v/bindgen.svg)
+- [cc](https://crates.io/crates/cc): _A library to compile C/C++/assembly into a Rust library/application._ [#build-dependencies] ![crates.io](https://img.shields.io/crates/v/cc.svg)
 
 # Test
 - [insta](https://crates.io/crates/insta): _Snapshots tests (also sometimes called approval tests) are tests that assert values against a reference value (the snapshot)._ [#testing, #snapshot, #approval, #jest] ![crates.io](https://img.shields.io/crates/v/insta.svg)
