@@ -52,7 +52,6 @@ Most of the listed crates such as the serde, serde_derive, tap, ... may also be 
 - [cargo-embed](https://crates.io/crates/cargo-embed): _This crate provides a cargo subcommand to work with embedded targets._ [#embedded] ![crates.io](https://img.shields.io/crates/v/cargo-embed.svg)
 - [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock): _This is a collection of types that implement the embedded-hal traits._ [#io, #i2c, #hal, #delay, #spi] ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
 - [ufmt](https://crates.io/crates/ufmt): _A (6-40x) smaller, (2-9x) faster and panic-free alternative to ``` core::fmt ```._ [#display, #write, #format, #debug] ![crates.io](https://img.shields.io/crates/v/ufmt.svg)
-- [defmt](https://crates.io/crates/defmt): _A highly efficient logging framework that targets resource-constrained devices, like microcontrollers_ [#logging, #formatting, #logger, #formatter, #knurling] ![crates.io](https://img.shields.io/crates/v/defmt.svg)
 - [smoltcp](https://crates.io/crates/smoltcp): _A TCP/IP stack designed for bare-metal, real-time systems without a heap._ [#udp, #ethernet, #ip, #tcp, #network] ![crates.io](https://img.shields.io/crates/v/smoltcp.svg)
 
 ### Wasm
