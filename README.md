@@ -81,6 +81,8 @@ Also check out the [no_std general](#general) section as most of the crates in n
 - [fs-err](https://crates.io/crates/fs-err): _``` fs-err ``` is a drop-in replacement for std::fs that provides more helpful messages on errors._ [#logging, #tracing, #metrics, #async] ![crates.io](https://img.shields.io/crates/v/fs-err.svg)
 - [clap](https://crates.io/crates/clap): _Command Line Argument Parser for Rust._ [#parser, #argument, #cli, #parse, #arg] ![crates.io](https://img.shields.io/crates/v/clap.svg)
 - [env_logger](https://crates.io/crates/env_logger): _Implements a logger that can be configured via environment variables._ [#log, #logging, #logger] ![crates.io](https://img.shields.io/crates/v/env_logger.svg)
+- [dirs](https://crates.io/crates/dirs): _A tiny low-level library that provides platform-specific standard locations of directories for config, cache and other data on Linux, Windows, macOS and Redox._ [#basedir, #xdg, #path, #app_dirs, #folder] ![crates.io](https://img.shields.io/crates/v/dirs.svg)
+- [directories](https://crates.io/crates/directories): _A tiny mid-level library that provides platform-specific standard locations of directories for config, cache and other data on Linux, Windows and macOS._ [#basedir, #xdg, #path, #app_dirs, #folder] ![crates.io](https://img.shields.io/crates/v/directories.svg)
 
 ## Domain
 ### Backend
