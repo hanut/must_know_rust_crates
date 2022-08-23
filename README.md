@@ -53,6 +53,7 @@ Most of the listed crates such as the serde, serde_derive, tap, ... may also be 
 - [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock): _This is a collection of types that implement the embedded-hal traits._ [#io, #i2c, #hal, #delay, #spi] ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
 - [ufmt](https://crates.io/crates/ufmt): _A (6-40x) smaller, (2-9x) faster and panic-free alternative to ``` core::fmt ```._ [#display, #write, #format, #debug] ![crates.io](https://img.shields.io/crates/v/ufmt.svg)
 - [smoltcp](https://crates.io/crates/smoltcp): _A TCP/IP stack designed for bare-metal, real-time systems without a heap._ [#udp, #ethernet, #ip, #tcp, #network] ![crates.io](https://img.shields.io/crates/v/smoltcp.svg)
+- [acid_alloc](https://crates.io/crates/acid_alloc): _This crate provides allocators that are suitable for use on bare metal or with OS allocation facilities like mmap(2)/brk(2)_ [#no_std, #allocator] ![crates.io](https://img.shields.io/crates/v/acid_alloc.svg)
 
 ### Wasm
 - [Rust Wasm Book](https://rustwasm.github.io/docs/book/introduction.html) *This small book describes how to use Rust and WebAssembly together.*
